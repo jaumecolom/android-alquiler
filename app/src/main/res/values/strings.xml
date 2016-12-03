@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Venta de coches</string>
+    <string name="user">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="login_text">Entrar</string>
+    <string name="register_button">Registrar</string>
+</resources>
